@@ -1,0 +1,24 @@
+{
+  "name": "lipis/flag-icons",
+  "description": "全球所有国家及组织旗帜合集：SVG 格式",
+  "type": "library",
+  "license": "MIT",
+  "homepage": "https://flagicons.lipis.dev",
+  "keywords": [
+    "css",
+    "svg",
+    "country-flags",
+    "country",
+    "icon-css"
+  ],
+  "authors": [
+    {
+      "name": "Panayiotis Lipiridis",
+      "email": "lipiridis@gmail.com",
+      "role": "Lead"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/lipis/flag-icons/issues"
+  }
+}
